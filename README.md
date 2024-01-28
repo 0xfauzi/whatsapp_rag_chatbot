@@ -10,5 +10,4 @@ This is implemented using Retrieval Augmented Generation and:
 ## Demo: 
 This video demonstrates the chatbot in action. A research report is shared with the chatbot, followed by a few prompts about the report.
 
-https://github.com/0xfauzi/whatsapp_rag_chatbot/assets/5702728/f2a403ea-fb2f-4f90-ad8d-20f22384db46
-
+https://github.com/0xfauzi/whatsapp_rag_chatbot/assets/5702728/778f0541-b0f4-48a7-b31a-439a9e21aaf5
