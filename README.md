@@ -3,7 +3,7 @@
 
 This is implemented using Retrieval Augmented Generation and:
 - Twilio
-- GPT4
+- GPT-4
 - LangChain
 - FastAPI
 
